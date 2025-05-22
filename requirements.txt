@@ -1,0 +1,14 @@
+matplotlib==3.10.0
+munkres==1.1.4
+networkx==3.2.1
+numpy==2.2.3
+pandas==2.2.3
+PyYAML==6.0.2
+PyYAML==6.0.2
+scikit_learn==1.6.1
+scipy==1.15.2
+torch==2.5.1
+torch_cluster==1.6.3+pt25cu121
+torch_geometric==2.6.1
+torch_scatter==2.1.2+pt25cu121
+tqdm==4.67.1
